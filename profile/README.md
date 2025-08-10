@@ -1,14 +1,14 @@
-# Dayan Pardazesh – Smart Energy Monitoring Solutions
+# Paya Energy – Smart Energy Monitoring Solutions
 
-**Dayan Pardazesh** is a technology-driven company that provides intelligent monitoring solutions for a wide range of energy resources. Our platforms are designed to deliver real-time insights, analytics, and control over the consumption of electricity, gas, water, and industrial fluids in large-scale facilities.
+**Paya Energy** is a technology-driven company that provides intelligent monitoring solutions for a wide range of energy resources. Our platforms are designed to deliver real-time insights, analytics, and control over the consumption of electricity, gas, water, and industrial fluids in large-scale facilities.
 
-> ⚙️ All software systems and technical implementations for Dayan Pardazesh’s platforms have been **fully developed by [Fardad Noavar Darnika](https://fardad.tech)**, a leading company in smart energy software development.
+> ⚙️ All software systems and technical implementations for Paya Energy’s platforms have been **fully developed by [Fardad Noavar Darnika](https://fardad.tech)**, a leading company in smart energy software development.
 
 ---
 
 ## 🔍 About
 
-Dayan Pardazesh acts as a visionary partner in delivering customized, high-precision monitoring solutions. While we design and define product goals, all system architecture, frontend/backend software, and integrations have been executed by our long-term technology partner, **Fardad Noavar Darnika**.
+Paya Energy acts as a visionary partner in delivering customized, high-precision monitoring solutions. While we design and define product goals, all system architecture, frontend/backend software, and integrations have been executed by our long-term technology partner, **Fardad Noavar Darnika**.
 
 ---
 
@@ -51,7 +51,7 @@ Smart Energy Software Innovators
 
 📧 For business inquiries, demos, or custom deployments, please contact:
 
-**Dayan Pardazesh**  
+**Paya Energy**  
 Email: info@dayanpardazesh.com  
 Website: _Coming Soon_
 
@@ -59,4 +59,4 @@ Website: _Coming Soon_
 
 ## 📝 Legal Notice
 
-All intellectual property related to software, source code, and systems architecture belongs to **Fardad Noavar Darnika**, developed under contract for **Dayan Pardazesh**. Redistribution or commercial use outside of authorized agreement is strictly prohibited.
+All intellectual property related to software, source code, and systems architecture belongs to **Fardad Noavar Darnika**, developed under contract for **Paya Energy**. Redistribution or commercial use outside of authorized agreement is strictly prohibited.
