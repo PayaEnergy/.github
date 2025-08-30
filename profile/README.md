@@ -52,8 +52,8 @@ Smart Energy Software Innovators
 📧 For business inquiries, demos, or custom deployments, please contact:
 
 **NiroBan**  
-Email: info@dayanpardazesh.com  
-Website: _Coming Soon_
+Email: contact@niroban.ir
+Website: https://niroban.ir
 
 ---
 
